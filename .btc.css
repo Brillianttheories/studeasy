@@ -1,0 +1,26 @@
+  .btc {
+    font-family: 'Open Sans', sans-serif;
+    padding: 0.75em 2em;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 500px;
+    color: #FFAA48;
+    border: 2px solid #FFAA48;
+    font-size: 24px;
+    display: inline;
+    border-radius: 0.3em;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    position: relative;
+    overflow: hidden;
+    background-image: url(https://bitcoin.org/img/icons/opengraph.png);
+    background-repeat: no-repeat;
+    background-position: center left 11px;
+    background-size: 30px 30px;
+  }
+  .btc:hover {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #FFAA48;
+    color: #fff;
+    border-bottom: 4px solid #FFAA48;
+  }
